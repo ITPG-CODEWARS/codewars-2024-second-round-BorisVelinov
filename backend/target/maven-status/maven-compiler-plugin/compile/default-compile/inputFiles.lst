@@ -1,0 +1,5 @@
+/workspaces/proekttest/backend/src/main/java/com/example/urlshortener/UrlShortenerApplication.java
+/workspaces/proekttest/backend/src/main/java/com/example/urlshortener/controller/UrlController.java
+/workspaces/proekttest/backend/src/main/java/com/example/urlshortener/model/Url.java
+/workspaces/proekttest/backend/src/main/java/com/example/urlshortener/repository/UrlRepository.java
+/workspaces/proekttest/backend/src/main/java/com/example/urlshortener/service/UrlService.java
